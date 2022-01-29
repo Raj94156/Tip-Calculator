@@ -1,2 +1,3 @@
 # Tip-Calculator
 This is a basic tip calculator created by using HTML,CSS,and Javacript
+to find out the tip i will take input from the user in the form of ,Bill Amount (It is the amount of the total bill ).their is the drop down menu which shows the percentage of tip we want to give as of the total bill amount according yo the rating of service we get and in the last we will take the input of between how many people it is going to be distributed.so the total tip we can find by bill amount multiplied by type of service divided by the number of person.and just print it by using the console.log().
